@@ -1,0 +1,8 @@
+# datasets: download them, do not commit
+PMU_Fault_Data.csv
+PMU_data.xlsx
+classData.csv
+parametric_pmu_faults*.csv*
+*.pkl
+__pycache__/
+.ipynb_checkpoints/
